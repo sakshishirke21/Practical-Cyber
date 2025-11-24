@@ -168,7 +168,4 @@ Artifacts inspected:
 * Python visualization
 * MFT Parser
 
----
 
-Just tell me: **“Generate the full report with images”** or **“Add screenshots-style visuals”**.
-```
