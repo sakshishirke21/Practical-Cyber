@@ -100,7 +100,7 @@ Artifacts inspected:
 ### **7.4 Network Diagram (Attack Flow)**
 > _Placeholder for attacker movement visualization_
 
-![Network Attack Flow](network_attack_flow.png)
+![Network Attack Flow](https://github.com/sakshishirke21/Practical-Cyber/blob/main/network%20_attack_flow.png)
 
 ---
 
