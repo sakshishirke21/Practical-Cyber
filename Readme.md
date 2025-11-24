@@ -79,7 +79,7 @@ Artifacts inspected:
 ### **7.1 Timeline Chart**
 > _Placeholder for timeline graph_
 
-![Timeline Chart](timeline_placeholder.png)
+![Timeline Chart](timeline_placholder.png)
 
 ---
 
