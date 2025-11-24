@@ -43,7 +43,7 @@ Steps:
 5. Generate hash values  
 
 **Screenshot Placeholder:**  
-![FTK Imager Screenshot](images/ftk_placeholder.png)
+![FTK Imager Screenshot](ftk_placeholder.png)
 
 ---
 
