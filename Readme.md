@@ -57,7 +57,7 @@ Artifacts inspected:
 - ADS (Alternate Data Streams)
 
 **Diagram Placeholder:**  
-![MFT Structure Diagram](images/mft_structure.png)
+![MFT Structure Diagram](mft_structure.png)
 
 ---
 
@@ -79,28 +79,28 @@ Artifacts inspected:
 ### **7.1 Timeline Chart**
 > _Placeholder for timeline graph_
 
-![Timeline Chart](graphs/timeline_placeholder.png)
+![Timeline Chart](timeline_placeholder.png)
 
 ---
 
 ### **7.2 Event Frequency Chart**
 > _Placeholder for bar graph_
 
-![Event Frequency](graphs/event_frequency_placeholder.png)
+![Event Frequency](event_frequency_placeholder.png)
 
 ---
 
 ### **7.3 Evidence Correlation Graph**
 > _Graph to show relationships between artifacts_
 
-![Correlation Graph](graphs/correlation_graph.png)
+![Correlation Graph](correlation_graph.png)
 
 ---
 
 ### **7.4 Network Diagram (Attack Flow)**
 > _Placeholder for attacker movement visualization_
 
-![Network Attack Flow](diagrams/network_attack_flow.png)
+![Network Attack Flow](network_attack_flow.png)
 
 ---
 
@@ -118,7 +118,7 @@ Artifacts inspected:
 ## 🧮 9. Consolidated Incident Timeline
 > _Insert timeline screenshot or visualization here_
 
-![Incident Timeline](graphs/incident_timeline.png)
+![Incident Timeline](incident_timeline.png)
 
 ---
 
