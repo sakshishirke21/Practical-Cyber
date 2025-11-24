@@ -115,13 +115,6 @@ Artifacts inspected:
 
 ---
 
-## 🧮 9. Consolidated Incident Timeline
-> _Insert timeline screenshot or visualization here_
-
-![Incident Timeline](incident_timeline.png)
-
----
-
 ## 🛡️ 10. Conclusion & Recommendations
 
 ### ✔️ Summary
