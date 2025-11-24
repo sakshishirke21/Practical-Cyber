@@ -86,7 +86,7 @@ Artifacts inspected:
 ### **7.2 Event Frequency Chart**
 > _Placeholder for bar graph_
 
-![Event Frequency](event_frequency_placeholder.png)
+![Event Frequency](https://github.com/sakshishirke21/Practical-Cyber/blob/main/event%20_frequency_placeholder.png)
 
 ---
 
